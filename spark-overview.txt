@@ -1,0 +1,36 @@
+
+Spark:
+======
+
+What is Apache Spark?
+Apache spark is an opensource cluster computing framework.
+
+
+Why spark ?
+- fast and general engine for large scale processing
+- open source cluster computing framework
+- end to end analytics platform 
+- overcomes limitation of hadoop/mapreduce
+- runs on cluster
+- iterative and intecatvie and stream processing 
+- supportws multiple languages scala, java, python and R
+- major companies like Google, Amazon and other use spark
+
+
+When to use spark?
+- Spark is centered around data processing
+- Data integration and ETL
+- Interactive analytics
+- Batch computing
+- stream processing
+
+
+Spark workflow:
+1.Load data from source
+2.transform data
+3.store processed data
+4.interactive analytics
+5.machine learning 
+6.data driven decision making
+ 
+
