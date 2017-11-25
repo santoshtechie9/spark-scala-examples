@@ -1,10 +1,17 @@
 
-Spark:
-======
+Apache Spark:
+============
 
-What is Apache Spark?
-Apache spark is an opensource cluster computing framework.
+What Is Apache Spark?
+Apache Spark is a cluster computing platform designed to be fast and general-purpose.
+Spark extends the popular MapReduce model. It can run computations in memory and disk.
+It called general purpose as it supprots batch applications, iterative algorithms, interactive queries, and streaming. These different type of applications require various distributed systems earlier.
 
+Spark is designed to be highly accessible, you can develop spark jobs in Python, Java, Scala,and SQL.
+Spark integrates well with other big data tool. Spark can run on Hadoop and can access any Hadoop data source.
+
+At its core, Spark is a “computational engine” that is responsible for scheduling, distributing, and monitoring applications consisting of many computational tasks across many worker
+machines, or a computing cluster.
 
 Why spark ?
 - fast and general engine for large scale processing
@@ -16,14 +23,12 @@ Why spark ?
 - supportws multiple languages scala, java, python and R
 - major companies like Google, Amazon and other use spark
 
-
 When to use spark?
 - Spark is centered around data processing
 - Data integration and ETL
 - Interactive analytics
 - Batch computing
 - stream processing
-
 
 Spark workflow:
 1.Load data from source
@@ -34,3 +39,27 @@ Spark workflow:
 6.data driven decision making
  
 
+Spark Architecture:
+==================
+
+Spark core: 
+It contains the basic functionality of spark.
+Basic functionalities of spark code include task scheduling, memory management, fault recovery and interacting with storage systems and more.
+Spark core is also the home to the API that define RDDs.
+
+RDD:
+RDD stands for resiliend distributed datasets.
+RDDs are programming abstraction.
+RDDs represent a collection of items distributed across a cluster of computers that can be manipulated parallely.
+RDDs allow us to programatically manipulate the data in languages line scala, java and python.
+
+Spark SQL:
+Spark SQL allows queryig data sets via SQL. Spark SQL is the spark's package for working with structured data.
+
+Spark Streaming:
+
+Spark MLIB:
+
+Spark GraphX:
+
+Cluster Managers:
