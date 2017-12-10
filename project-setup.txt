@@ -1,0 +1,22 @@
+
+
+Spark Quick Start
+=================
+https://spark.apache.org/docs/latest/quick-start.html
+
+Discover Intellij IDEA for Scala
+================================
+https://www.jetbrains.com/help/idea/discover-intellij-idea-for-scala.html
+
+Getting Started with SBT
+========================
+https://www.jetbrains.com/help/idea/getting-started-with-sbt.html
+
+
+Getting Started with Intellij IDEA & Maven
+==========================================
+
+https://docs.scala-lang.org/tutorials/scala-with-maven.html
+http://shout.setfive.com/2016/03/22/scala-building-with-eclipse-and-maven/
+https://stackoverflow.com/questions/29114936/how-do-i-find-the-correct-maven-archetype-project-for-developing-with-scala-in-e
+
