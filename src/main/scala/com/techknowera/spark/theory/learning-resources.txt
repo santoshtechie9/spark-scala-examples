@@ -1,0 +1,6 @@
+
+Advanced String Matching with Spark’s rlike method:
+https://medium.com/@mrpowers/advanced-string-matching-with-sparks-rlike-method-14ecb1847268
+https://medium.com/@mrpowers
+
+
