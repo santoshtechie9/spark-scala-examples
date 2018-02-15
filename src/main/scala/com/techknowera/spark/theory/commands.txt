@@ -1,6 +1,6 @@
 
 //Command to run a spark application from a jar file
-spark-submit --class "com.techknowera.spark.RDD.SparkDataFormats" spark-scala-1.0-SNAPSHOT.jar
+spark-submit --class "com.techknowera.spark.rdd.SparkDataFormats" spark-scala-1.0-SNAPSHOT.jar
 
 // Command to run a spark application from a jar file
-spark-submit --class "com.techknowera.spark.RDD.Map" spark-scala-1.0-SNAPSHOT.jar
+spark-submit --class "com.techknowera.spark.rdd.Map" spark-scala-1.0-SNAPSHOT.jar
