@@ -1,4 +1,4 @@
-package com.techknowera.scala.sql
+package com.techknowera.spark.sql
 
 import org.apache.spark.sql.SparkSession
 

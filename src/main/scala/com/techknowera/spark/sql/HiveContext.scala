@@ -1,4 +1,4 @@
-package com.techknowera.scala.sql
+package com.techknowera.spark.sql
 
 import com.techknowera.spark.sql.SQLContext.sqlContext
 import org.apache.spark.{SparkConf, SparkContext}

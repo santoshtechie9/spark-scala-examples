@@ -11,5 +11,7 @@ libraryDependencies += "org.apache.spark" %% "spark-core" % "2.1.1"
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.1.1"
 
 // https://mvnrepository.com/artifact/org.apache.spark/spark-streaming
-libraryDependencies += "org.apache.spark" %% "spark-streaming" % "2.1.1" % "provided"
-        
+//libraryDependencies += "org.apache.spark" %% "spark-streaming" % "2.1.1" % "provided"
+
+// https://mvnrepository.com/artifact/com.typesafe/config
+libraryDependencies += "com.typesafe" % "config" % "1.2.1"

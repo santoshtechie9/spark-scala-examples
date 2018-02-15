@@ -1,4 +1,4 @@
-package com.techknowera.scala.RDD
+package com.techknowera.spark.RDD
 
 import com.typesafe.config.ConfigFactory
 import org.apache.spark.{SparkConf, SparkContext}

@@ -1,4 +1,4 @@
-package com.techknowera.scala.app
+package com.techknowera.spark.app
 
 /**
  * @author ${user.name}

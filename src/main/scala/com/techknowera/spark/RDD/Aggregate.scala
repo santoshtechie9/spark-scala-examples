@@ -1,4 +1,4 @@
-package com.techknowera.scala.RDD
+package com.techknowera.spark.RDD
 
 object Aggregate extends App {
 
