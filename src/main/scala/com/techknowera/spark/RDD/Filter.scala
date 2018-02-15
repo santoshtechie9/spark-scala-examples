@@ -1,4 +1,4 @@
-package com.techknowera.spark.RDD
+package com.techknowera.spark.rdd
 
 object Filter {
 

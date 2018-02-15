@@ -1,4 +1,4 @@
-package com.techknowera.spark.RDD
+package com.techknowera.spark.rdd
 
 import com.techknowera.spark.app.InitializeSparkContext
 import com.typesafe.config.ConfigFactory
@@ -17,7 +17,7 @@ object SparkDataFormats {
     println("text Input File")
     sc.textFile(projConf.getString("sparkAppConf.textInputFile")).take(3).foreach(line => println(line))
 
-    //Create and RDD from maprfs filesystem
+    //Create and rdd from maprfs filesystem
     println("maprfs Input File")
     sc.textFile(projConf.getString("sparkAppConf.maprfsInputFile")).take(3).foreach(line => println(line))
 
